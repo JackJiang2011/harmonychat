@@ -1,6 +1,11 @@
+
+:heart: <b>最新动态：</b>基于MobileIMSDK的鸿蒙Next端IM产品[RainbowTalk](http://www.52im.net/thread-4822-1-1.html)已发布。:heart:
+
 # 一、HarmonyChat是什么？
 
 HarmonyChat是 **一个简洁的鸿蒙NEXT上的基于WebSocket协议的聊天客户端** ，它基于[MobileIMSDK](https://gitee.com/jackjiang/MobileIMSDK)通信库， **有完善的网络通信通力、简洁的聊天界面UI、合理的代码拆分和逻辑实现，非常适合学习研究或直接用于简单的鸿蒙NEXT单页聊天项目中** 。
+
+HarmonyChat参考了[MobileIMSDK](https://gitee.com/jackjiang/MobileIMSDK)开源即时通讯框架的鸿蒙NEXT端Demo代码，并参考了鸿蒙NEXT端IM产品[RainbowTalk](http://www.52im.net/thread-4824-1-1.html)的部分框架性代码，希望能带给你帮助。
 
 ![输入图片说明](screenshots/all_futures.jpg)
 
