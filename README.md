@@ -1,9 +1,24 @@
+<div align="center">
+    <a href="http://www.52im.net/thread-52-1-1.html">
+    <img src="entry/src/main/resources/base/media/ic_splash_graybg2.png" width="150" alt="harmonychat logo">
+    </a>
+
+  [![star](https://gitcode.com/hellojackjiang2011/harmonychat/star/badge.svg)](https://gitcode.com/hellojackjiang2011/harmonychat)
+  [![Gitee star](https://gitee.com/jackjiang/harmonychat/badge/star.svg?theme=white)](https://gitee.com/jackjiang/harmonychat)
+  [![GitHub stars](https://img.shields.io/github/stars/JackJiang2011/harmonychat.svg?style=social&label=Stars)](https://github.com/JackJiang2011/harmonychat)
+ [![License](https://img.shields.io/badge/license-Apache2.0-00c800)](https://gitee.com/JackJiang2011/MobileIMSDK/blob/master/LICENSE)
+
+<img src="https://trendshift.io/api/badge/repositories/2" alt="MobileIMSDK | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/>
 
 :heart: <b>最新动态：</b>基于MobileIMSDK的鸿蒙Next端IM产品[RainbowTalk](http://www.52im.net/thread-4822-1-1.html)已发布。:heart:
 
+</div>
+
 # 一、HarmonyChat是什么？
 
-HarmonyChat是 **一个简洁的鸿蒙NEXT上的基于WebSocket协议的聊天客户端** ，它基于[MobileIMSDK](https://gitee.com/jackjiang/MobileIMSDK)通信库， **有完善的网络通信通力、简洁的聊天界面UI、合理的代码拆分和逻辑实现，非常适合学习研究或直接用于简单的鸿蒙NEXT单页聊天项目中** 。
+HarmonyChat是 **一个简洁的鸿蒙NEXT上的基于WebSocket协议的聊天客户端** ，它基于[MobileIMSDK](https://gitee.com/jackjiang/MobileIMSDK)（![star](https://gitcode.com/hellojackjiang2011/MobileIMSDK/star/badge.svg)
+![Gitee star](https://gitee.com/jackjiang/MobileIMSDK/badge/star.svg?theme=white)
+![GitHub stars](https://img.shields.io/github/stars/JackJiang2011/MobileIMSDK.svg?style=social&label=Stars)）通信库， **有完善的网络通信通力、简洁的聊天界面UI、合理的代码拆分和逻辑实现，非常适合学习研究或直接用于简单的鸿蒙NEXT单页聊天项目中** 。
 
 HarmonyChat引用了[MobileIMSDK](https://gitee.com/jackjiang/MobileIMSDK)开源即时通讯框架的鸿蒙NEXT端Demo代码，并参考了鸿蒙NEXT端IM产品[RainbowTalk](http://www.52im.net/thread-4824-1-1.html)的部分框架性代码，希望能带给你帮助。
 
