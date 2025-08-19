@@ -68,9 +68,9 @@ HarmonyChat引用了[MobileIMSDK](https://gitee.com/jackjiang/MobileIMSDK)开源
 
  **开源MobileIMSDK的源码仓库：**
 
-* 1）Gitee码云：[https://gitee.com/jackjiang/MobileIMSDK](https://gitee.com/jackjiang/MobileIMSDK) 🔥
-* 2）Gitcode：[https://gitcode.com/hellojackjiang2011/MobileIMSDK](https://gitcode.com/hellojackjiang2011/MobileIMSDK) 🔥
-* 3）Github：[https://github.com/JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)) 🔥
+* 1）Gitee码云：[https://gitee.com/jackjiang/MobileIMSDK](https://gitee.com/jackjiang/MobileIMSDK) ![Gitee star](https://gitee.com/jackjiang/MobileIMSDK/badge/star.svg?theme=white) 🔥
+* 2）Gitcode：[https://gitcode.com/hellojackjiang2011/MobileIMSDK](https://gitcode.com/hellojackjiang2011/MobileIMSDK) ![star](https://gitcode.com/hellojackjiang2011/MobileIMSDK/star/badge.svg) 🔥
+* 3）Github：[https://github.com/JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)) ![GitHub stars](https://img.shields.io/github/stars/JackJiang2011/MobileIMSDK.svg?style=social&label=Stars) 🔥
 
 # 六、实际运行截图
 
